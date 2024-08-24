@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nokesh BUdharouthula</h1>
+<h1 align="center">Hi 👋, I'm Nokesh Budharouthula</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
