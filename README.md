@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nokeshbudharouthula@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> **linkedin.com/nokesh**
 <p align="left">
 </p>
 
